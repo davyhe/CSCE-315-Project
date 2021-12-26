@@ -1,6 +1,6 @@
 # TAMU-CSCE-315 Project
 
-This repository contains my work for CSCE 313.
+This repository contains my work for CSCE 315.
 
 This is only meant to showcase my work to the public.
 
